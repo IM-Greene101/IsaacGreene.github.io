@@ -1,1 +1,3 @@
-title: about me
+layout: page
+title: "about"
+permalink: /about
